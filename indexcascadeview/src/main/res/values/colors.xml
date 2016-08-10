@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider_color">#dddddd</color>
+    <color name="listview_bgcolor_st">#ffffff</color>
+    <color name="listview_bgcolor_nd">#EEEEEE</color>
+
+    <color name="cricle_index_bgcolor">#AA000000</color>
+    <color name="text_title_color">#222222</color>
+    <color name="text_item_select_color">#38ACFF</color>
+</resources>
