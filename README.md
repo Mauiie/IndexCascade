@@ -2,9 +2,14 @@
 这是一个Android带索引的级联列表View.
 
 # indexcascadeview简介
-这是一个Android带索引的级联列表View,
+这是一个Android带索引的级联列表View,UI如下：
+![](screenshot/device-2016-08-11-102956.png) 
 
 
+![](screenshot/device-2016-08-11-103107.png) 
+
+
+![](screenshot/device-2016-08-11-103136.png) 
 # 关于作者
 * **QQ:**1203407263
 * **Email:**<taijinglei@163.com>
